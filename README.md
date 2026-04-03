@@ -17,7 +17,7 @@
 
 **KisanSaathi** is a revolutionary agricultural assistance platform designed specifically for Indian farmers. Leveraging cutting-edge AI and real-time data APIs, it provides comprehensive farming solutions including crop disease diagnosis, weather forecasting, market price analysis, and personalized agricultural recommendations.
 
-[🚀 Live Demo](https://kisansarthi.vercel.app/) | [📖 Documentation](#features-in-detail) | [🤝 Contribute](#contributing) | [📱 Mobile App](#roadmap)
+[🚀 Live Demo](https://kisan-saathi-five.vercel.app/) | [📖 Documentation](#features-in-detail) | [🤝 Contribute](#contributing) | [📱 Mobile App](#roadmap)
 
 </div>
 
